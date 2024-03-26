@@ -1,1 +1,1 @@
-readme added by echo echo
+Branch Protection Rule Configured
